@@ -23,7 +23,7 @@ The simulation includes the following major components:
 4. User Interface: Provides a command-line interface for the user to interact with the simulation, create PCBs, and view the status of PCBs and memory.
 
 ## How to run
-Compile the code and use the console menu to navigate!
+Compile the [Code](https://github.com/hungphongtrn/OS_SYSTEM_PRJ/blob/main/G7_OS_SIMULATION.cpp) and use the console menu to navigate!
 
 
                                                                                                                 
